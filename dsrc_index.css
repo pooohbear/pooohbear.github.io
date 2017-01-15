@@ -1,0 +1,93 @@
+html {
+  height: 100%;
+}
+body {
+   width: 800px;
+   height: 100%;
+   font: normal small-caps normal 16px/1.4 Helvetica;
+}
+
+header {
+    background-color: 86DFF5;
+    border: #245 solid 10px;
+    padding: 0px;
+    margin: 5px;
+    color: FF7CD4;
+    text-shadow: 1px 1px 1px #000000;
+    display: block;
+}
+    .title{
+      font-size: 80px;
+      padding: 1px;
+      margin: 1px;
+    }
+    .subtitle{
+      font-size: 20px;
+      padding: 1px;
+      margin: 1px;
+    }
+}
+nav {
+    display: block;
+    padding: 5px;
+    margin: 10px;
+}
+nav ul {
+    padding: 5px;
+    margin: 10px;
+    border-bottom: ;
+    list-style-type: none;
+}
+nav li {
+    float: left;
+}
+nav li a {
+    height: 25px;
+    padding: 12px 18px 8px 18px;
+    vertical-align: middle;
+}
+a {
+    color: ;
+}
+section {
+    text-shadow: 1px 1px 1px #000000;
+    font-size: 15px;
+}
+
+.rainbowdolphin {
+  float: left;
+}
+.article1 {
+  background-color: BFFFDE;
+  color: F76E61;
+  height: 627px;
+}
+
+.article2 {
+  clear: both;
+  background-color: FFAAED;
+  color: BFFFDE;
+}
+.article3 {
+  background-color: A280FF;
+  color: FFAAED;
+}
+
+aside {
+    width: 17%;
+    display: inline-block;
+    background-color:;
+    padding:;
+    min-height: 100%;
+}
+aside ul {
+    list-style-type: none;
+}
+footer {
+    width: 790px;
+    background-color:F76E61;
+    color:A280FF;
+    text-shadow: 1px 1px 1px #000000;
+    clear: both;
+    display: block;
+}
